@@ -1,8 +1,8 @@
 ##### 下载地址
 
-> [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html]([http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html))
+> [http://spark.apache.org/downloads.html](http://spark.apache.org/downloads.html)
 >
-> [http://mirrors.hust.edu.cn/apache/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz]([http://mirrors.hust.edu.cn/apache/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz])
+> [http://mirrors.hust.edu.cn/apache/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz](http://mirrors.hust.edu.cn/apache/spark/spark-2.1.1/spark-2.1.1-bin-hadoop2.7.tgz)
 
 ##### 安装
 
