@@ -1,6 +1,6 @@
-##### 下载
+##### 下载地址
 
-> [scala下载地址](http://www.scala-lang.org/download/)
+> [http://www.scala-lang.org/download/](http://www.scala-lang.org/download/)
 
 ##### 安装
 

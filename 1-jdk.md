@@ -1,6 +1,6 @@
-##### 下载
+##### 下载地址
 
-> [jdk下载地址](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+> [http://www.oracle.com/technetwork/java/javase/downloads/index.html](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 
 ##### 准备工作
 
