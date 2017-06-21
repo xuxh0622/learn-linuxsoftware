@@ -17,3 +17,13 @@ PATH=$PATH:$SPARK_HOME/bin
 export PATH
 [**@** /]$ source /etc/profile  #重新加载配置文件
 ```
+
+##### 配置
+
+```bash
+[java@** /]$ cd /usr/alice/java/spark-2.1.1-bin-hadoop2.7/conf
+[java@** /]$ cp spark-env.sh.template  spark-env.sh
+[java@** /]$ vim spark-env.sh
+
+```
+
